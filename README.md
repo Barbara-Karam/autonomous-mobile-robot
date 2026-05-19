@@ -160,7 +160,7 @@ mkdir -p ~/ros2_ws/src
 cd ~/ros2_ws
 
 # Clone repository
-git clone <YOUR_REPOSITORY_LINK> src/
+git clone https://github.com/Barbara-Karam/autonomous-mobile-robot/ src/
 
 # Build
 colcon build --symlink-install
@@ -267,6 +267,3 @@ The project demonstration includes:
 ---
 
 # Demo Video is included in the repo
-
-```text
-https://your-demo-video-link.com
